@@ -25,9 +25,9 @@ The server is a simple firebase database hosted on google that stores the data f
 ## The App
 The app is an android app that displays the data from the server and sends notifications to the user when the fire is detected.
 
-## The model 
+## The Model 
 The model is built using Keras with python. The model is available and running at *https://lorax.azurewebsites.net/* for open source use as well.
-Sending a json **`PUT`** request with the following to the endpoint **`/predict`**:
+Sending a json **`POST`** request with the following to the endpoint **`/predict`**:
 
 ```json
 
