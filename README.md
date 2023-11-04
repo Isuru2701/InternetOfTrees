@@ -9,13 +9,15 @@ The user's phone also forwards the current data to a machine learning model to p
 
 ## The Things
 The physical things are packed into a single box. The box contains solar panels for power, batteries, an esp8266/Arduino for processing, and finally enough sensors to detect the following:
-Early warning:
-    - Temperature
-    - Humidity
-    - Soil moisture
-Fire:
-    - Flames
-    - Smoke
+
+**Early warning:**
+- Temperature
+- Humidity
+- Soil moisture
+
+**Fire:**
+- Flames
+- Smoke
 
 ## The Server
 The server is a simple firebase database hosted on google that stores the data from the things.
