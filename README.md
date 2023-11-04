@@ -33,7 +33,7 @@ Sending a json **`PUT`** request with the following to the endpoint **`/predict`
 
         {
         "region": "region",
-        "date": "yyyy-mm-dd",", 
+        "date": "yyyy-mm-dd",
         "temp": 0.0,
         "humidity": 0.0
         }
