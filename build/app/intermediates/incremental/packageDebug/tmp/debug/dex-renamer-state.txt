@@ -1,0 +1,4 @@
+#Tue Nov 07 08:37:37 IST 2023
+base.0=C\:\\Users\\SNC\\Documents\\wildfire_prediction_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
